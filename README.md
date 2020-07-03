@@ -5,7 +5,7 @@
 
 This program is just a basic version of Hangman game implemented using pygame module for GUI.
 
-![](Hangman.gif)
+![](hangman.gif)
 
 ## Requirements
  - pygame
