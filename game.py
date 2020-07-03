@@ -31,7 +31,7 @@ for i in range(11):
 
 # game variables
 hangman_status = 0
-words = ["TECH", "MONITOR", "SPEAKER", 'MOUSE', 'MOBILE',"RANDOM"]
+words = ["TECHNOLOGY", "MONITOR", "SPEAKER", 'MOUSE', 'MOBILE',"KEYBOARD", "MOTHERBOARD", "POWER"]
 word = random.choice(words)
 guessed = []
 
