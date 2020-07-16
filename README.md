@@ -1,14 +1,13 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 
-# Hangman-Pygame
+# Zero 21
 
-This program is just a basic version of Hangman game implemented using pygame module for GUI.
+This program is just a basic clone of Zero21 Solitarie, made using pygame module for educational purpose.
 
-![](hangman.gif)
+![](Gamegif.gif)
 
 ## Requirements
  - pygame
 
-## Hangman-Pygame Setup
-In order for Hangman-Pygame to work, you will need to download the module oulined in `requirement.txt` using pip.  
+
